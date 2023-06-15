@@ -11,7 +11,7 @@ The following table lists the configurable parameters of the Trino chart and the
 
 | Parameter                | Description             | Default        |
 | ------------------------ | ----------------------- | -------------- |
-| `image.repository` |  | `"psaini0803/trino"` |
+| `image.repository` |  | `"trinodb/trino"` |
 | `image.pullPolicy` |  | `"IfNotPresent"` |
 | `image.tag` |  | `"latest"` |
 | `imagePullSecrets` |  | `[{"name": "registry-credentials"}]` |
